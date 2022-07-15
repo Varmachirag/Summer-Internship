@@ -99,13 +99,13 @@
   }
   
   .bg-dark {
-    background: #333;
-    color: #fff;
+    background: #ABD1C9FF;
+    color: #000;
   }
   
   .bg-light {
-    background: #f4f4f4;
-    color: #000;
+    background: #000;
+    color: #ABD1C9FF;
   }
   
   .bg-medium {
